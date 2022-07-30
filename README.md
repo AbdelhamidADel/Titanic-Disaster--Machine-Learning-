@@ -1,0 +1,14 @@
+# Titanic-Disaster--Machine-Learning
+![](https://www.rmg.co.uk/sites/default/files/styles/full_width_1440/public/Atlantic%20liner%20%27Titanic%27%20%28Br%2C%201912%29%20sinking%2C%20bow%20first%2C%201912%2C%20with%20eight%20full%20lifeboats%20nearby%20and%20an%20iceberg%20in%20the%20distance_banner.jpg?itok=fQV6kN3z)
+
+# About Titanic
+The RMS Titanic sank in the early morning hours of 15 April 1912 in the North Atlantic Ocean, four days into her maiden voyage from Southampton to New York City. The largest ocean liner in service at the time, Titanic had an estimated 2,224 people on board when she struck an iceberg at around 23:40 (ship's time)[a] on Sunday, 14 April 1912. Her sinking two hours and forty minutes later at 02:20 (ship's time; 05:18 GMT) on Monday, 15 April, resulted in the deaths of more than 1,500 people, making it one of the deadliest peacetime maritime disasters in history.
+
+Titanic received six warnings of sea ice on 14 April but was travelling about 22 knots when her lookouts sighted the iceberg. Unable to turn quickly enough, the ship suffered a glancing blow that buckled her starboard side and opened six of her sixteen compartments to the sea. Titanic had been designed to stay afloat with four of her forward compartments flooded but no more, and the crew soon realised that the ship would sink. They used distress flares and radio (wireless) messages to attract help as the passengers were put into lifeboats.
+
+In accordance with existing practice, Titanic's lifeboat system was designed to ferry passengers to nearby rescue vessels, not to hold everyone on board simultaneously; therefore, with the ship sinking rapidly and help still hours away, there was no safe refuge for many of the passengers and crew with only 20 lifeboats, including 4 collapsible lifeboats. Poor management of the evacuation meant many boats were launched before they were completely full.
+
+Titanic sank with over a thousand passengers and crew still on board. Almost all of those who jumped or fell into the water drowned or died within minutes due to the effects of cold shock and incapacitation. RMS Carpathia arrived about an hour and a half after the sinking and rescued all of the 710 survivors by 09:15 on 15 April, some nine and a half hours after the collision. The disaster shocked the world and caused widespread outrage over the lack of lifeboats, lax regulations, and the unequal treatment of the third class passengers during the evacuation. Subsequent inquiries recommended sweeping changes to maritime regulations, leading to the establishment in 1914 of the International Convention for the Safety of Life at Sea (SOLAS).
+
+# Aim of Project 
+Based on the data we obtained in this project, we rely on predicting whether a person will survive or not, using some algorithms that depend on supervised learning.
